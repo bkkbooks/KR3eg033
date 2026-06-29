@@ -1,0 +1,197 @@
+canonical_identifier: bkk:krp/KR3eg033/v1
+canonical_location: https://kanripo.org/bkk/KR3eg033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫疫明辨歌訣
+  identifiers:
+    krp: KR3eg033
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg033.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg033_000.yaml, hash: 'sha256:2bebf14852a108355db330c3e4ed87b45d70d9a453c341a7663a634ae79f9026'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg033_000.markers.yaml, hash: 'sha256:a66cd9f035c20ddd7d4772c55ae3655b8de5d53600ef2a86d3d7fe7958da593f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 437
+  label: 辨溫疫初起氣色舌神脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d3.h1s1
+    span:
+    - body
+    - 437
+    - 640
+  label: 辨溫疫與風寒異治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d4.h1s1
+    span:
+    - body
+    - 640
+    - 742
+  label: 辨溫疫兼風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d5.h1s1
+    span:
+    - body
+    - 742
+    - 866
+  label: 辨溫疫兼寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d6.h1s1
+    span:
+    - body
+    - 866
+    - 973
+  label: 辨溫疫兼暑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d7.h1s1
+    span:
+    - body
+    - 973
+    - 1220
+  label: 辨溫疫兼瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d8.h1s1
+    span:
+    - body
+    - 1220
+    - 1402
+  label: 辨溫疫兼痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d9.h1s1
+    span:
+    - body
+    - 1402
+    - 1472
+  label: 辨溫疫夾痰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d10.h1s1
+    span:
+    - body
+    - 1472
+    - 1830
+  label: 辨溫疫夾水水即飲也
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d11.h1s1
+    span:
+    - body
+    - 1830
+    - 2089
+  label: 辨溫疫夾食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d12.h1s1
+    span:
+    - body
+    - 2089
+    - 2224
+  label: 辨溫疫夾郁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d13.h1s1
+    span:
+    - body
+    - 2224
+    - 2508
+  label: 辨溫疫夾血及蓄血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d14.h1s1
+    span:
+    - body
+    - 2508
+    - 2628
+  label: 辨溫疫夾脾虛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d15.h1s1
+    span:
+    - body
+    - 2628
+    - 2954
+  label: 辨溫疫夾腎虛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d16.h1s1
+    span:
+    - body
+    - 2954
+    - 3274
+  label: 辨溫疫夾亡血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d17.h1s1
+    span:
+    - body
+    - 3274
+    - 3399
+  label: 辨溫疫夾心胃痛附疝氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg033_jc_000-d18.h1s1
+    span:
+    - body
+    - 3399
+    - 3489
+  label: 辨溫疫夾哮喘
+  type: section
+  level: 1
+hash: sha256:96240452505d52cb0d0733e41048697b6cbfd052daec2b2459ccae3aac4de3df
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
