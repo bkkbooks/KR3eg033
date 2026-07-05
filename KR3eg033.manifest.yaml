@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg033_000.yaml, hash: 'sha256:2bebf14852a108355db330c3e4ed87b45d70d9a453c341a7663a634ae79f9026'}
+  - {seq: 0, filename: KR3eg033_000.yaml, hash: 'sha256:4a6066044474429e825245627c8b4e31af4b3129c66fdd388fad31a344a119d5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg033_000.markers.yaml, hash: 'sha256:a66cd9f035c20ddd7d4772c55ae3655b8de5d53600ef2a86d3d7fe7958da593f'}
+  - {seq: 0, role: markers, filename: assets/KR3eg033_000.markers.yaml, hash: 'sha256:e2cac55a01381c6fbd782bd4855b8483ec3dbd65ec4797e866e0a869725624c0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -191,7 +191,4 @@ table_of_contents:
   label: 辨溫疫夾哮喘
   type: section
   level: 1
-hash: sha256:96240452505d52cb0d0733e41048697b6cbfd052daec2b2459ccae3aac4de3df
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:356aba6b7a09c1c20f99cbe5aa426994f28ae65065519ecff8db290bb1a85e02
