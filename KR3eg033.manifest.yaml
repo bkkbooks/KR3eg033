@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg033/v1
 canonical_location: https://kanripo.org/bkk/KR3eg033/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 溫疫明辨歌訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg033_000.yaml, hash: 'sha256:4a6066044474429e825245627c8b4e31af4b3129c66fdd388fad31a344a119d5'}
+  - {seq: 0, filename: KR3eg033_000.yaml, hash: 'sha256:6b1126026df677f56b9300f311db92d0dd612fbd5dd20eee662eca413add6484'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg033_000.markers.yaml, hash: 'sha256:e2cac55a01381c6fbd782bd4855b8483ec3dbd65ec4797e866e0a869725624c0'}
+  - {seq: 0, role: markers, filename: assets/KR3eg033_000.markers.yaml, hash: 'sha256:118204769a5cc591be44f50a1b70ee25ac3f8076579a4c7ac9c97faee591220a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -191,4 +191,7 @@ table_of_contents:
   label: 辨溫疫夾哮喘
   type: section
   level: 1
-hash: sha256:356aba6b7a09c1c20f99cbe5aa426994f28ae65065519ecff8db290bb1a85e02
+hash: sha256:deaf3c34f43878595088d0e69e836724bf76f05b8630a86783074c4fb8435c50
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
