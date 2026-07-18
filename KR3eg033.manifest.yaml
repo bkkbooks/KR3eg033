@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg033_000.yaml, hash: 'sha256:6b1126026df677f56b9300f311db92d0dd612fbd5dd20eee662eca413add6484'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg033_000.markers.yaml, hash: 'sha256:118204769a5cc591be44f50a1b70ee25ac3f8076579a4c7ac9c97faee591220a'}
+  - {seq: 0, role: markers, filename: assets/KR3eg033_000.markers.yaml, hash: 'sha256:4e732a0848cc9151782d7802d5e9d9af1f068766e3892350f25f22b19011dbd7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -191,7 +191,7 @@ table_of_contents:
   label: 辨溫疫夾哮喘
   type: section
   level: 1
-hash: sha256:deaf3c34f43878595088d0e69e836724bf76f05b8630a86783074c4fb8435c50
+hash: sha256:d95fe811a980f2a2b81e8b906547f73dcd8a5ef6daa0289cc9eaa9f16e2556ab
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
